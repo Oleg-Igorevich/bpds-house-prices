@@ -14,6 +14,8 @@ knitr::opts_knit$set(root.dir = here::here())
 pacman::p_load(
   "tidyverse"
 )
+
+# remotes::install_github('context-dependent/bptheme')
 ```
 
 
@@ -32,11 +34,11 @@ dat <- read_csv("data/raw/housedata.csv")
 
 ### Univariate distributions
 
-illustrate the univariate distributions here
+illustrate the univariate distributions here. Use histograms or density plots for continuous variables, and bar charts for categorical variables. 
 
-### Bivariate distributions
+### Multivariate distributions
 
-illustrate the bivariate distributions here
+illustrate multivariate distributions here. Focus on illustrating the relationships between price and the other variables. 
 
 ### Data cleaning choices
 
