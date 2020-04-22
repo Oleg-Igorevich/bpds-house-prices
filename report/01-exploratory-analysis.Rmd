@@ -38,7 +38,7 @@ illustrate the univariate distributions here. Use histograms or density plots fo
 
 ### Multivariate distributions
 
-illustrate multivariate distributions here. Focus on illustrating the relationships between price and the other variables. 
+illustrate multivariate distributions here. Focus on illustrating the relationships between price and the other variables. Use scatter plots, box plots, and facets where appropriate. 
 
 ### Data cleaning choices
 
